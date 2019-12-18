@@ -1,4 +1,4 @@
-# CHECKERS_AI
+# HUMAN CLASSIFICAATION
 *Created by Yaroslav Oliinyk*
 
 
