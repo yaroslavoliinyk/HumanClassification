@@ -18,8 +18,8 @@
 From 17 to 90 where 17 is **the youngest** human and 90 is **the oldest**
 * Then there will be a bunch of different questions like: **education, marital status, occupation, relationship, race, country**
 * After answering all these questions, you'll get two strings with probability whether person earns more than 50K or less:
-**This person probably earns >50K with  0.022592442367704815 %                    
-**This person probably earns <=50K with  99.0 %  
+**This person probably earns >50K with  0.022592442367704815 %**                    
+**This person probably earns <=50K with  99.0 %**
 ### Have fun!
 
 		All rights reserved
