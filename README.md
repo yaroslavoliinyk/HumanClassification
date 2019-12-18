@@ -1,4 +1,4 @@
-# HUMAN CLASSIFICAATION
+# HUMAN CLASSIFICATION
 *Created by Yaroslav Oliinyk*
 
 
